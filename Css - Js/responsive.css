@@ -1,0 +1,28 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.home {
+   display: flex;
+   flex-wrap: wrap;
+}
+
+.in-flex {
+  flex: 1;
+  min-width: 300px;
+  opacity: 95%;
+}
+.in-flex:first-child {
+   flex: 2;
+   padding: 25px;
+   background-color: #ff5e00;
+   margin: 20px;
+   margin-bottom: 0px;
+}
+.in-flex div {
+    padding: 25px;
+    background-color: #ff5e00;
+    margin: 20px;
+}

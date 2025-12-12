@@ -1,0 +1,58 @@
+.encabezado_J1{
+    color: white;
+    font-size: 40pt;
+    font-weight: bold;
+    font-family: broadway;
+    background: rgb(117, 100, 4);
+    width: 80%;
+    border-radius: 15px;
+}
+
+.encabezado_J2{
+    color: white;
+    font-size: 18pt;
+    font-weight: bold;
+    font-family: broadway;
+    background: black;
+    width: 70%;
+    border-radius: 15px;
+}
+
+.encabezado_J3{
+    color: black;
+    font-size: 15pt;
+    font-weight: bold;
+    font-family: broadway;
+    background: white;
+    border-radius: 10px;
+}
+
+
+
+
+.boton_J1{
+    text-align:center;
+    color: rgb(255, 115, 0);
+    font-size: 14pt;
+    font-weight: bold;
+    font-family: broadway;
+    background-color: rgb(8, 8, 8);
+    width: 200px;
+    height: 30px;
+    border-radius: 15px;
+}
+
+.boton_J1:hover{
+    color: rgb(81, 0, 0);
+    background-color: white;
+}
+
+
+.table_J1{
+    font-weight:bold ;
+    font-family: broadway;
+    border-radius: 4px;
+    border-style: groove;
+    border-top: rgb(20, 9, 240);
+    border-image: auto;
+}

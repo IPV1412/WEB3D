@@ -1,0 +1,113 @@
+.encabezado_L1 {
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: broadway;
+	background: #ec5e0c;
+	width: 80%;
+	border-radius: 15px;
+}
+
+.encabezado_L2 {
+	background: url(../images/h1-wood.png) top center no-repeat;
+	background-size: contain;
+	height: 50px;
+	margin: -30px auto 0px;
+	font-family: 'curse_casual_jveregular';
+	text-transform: uppercase;
+	color: #fff7e0;
+	font-size: 20px;
+	font-weight: 100;
+	letter-spacing: 0.05em;
+	text-align: center;
+	padding-top: 17px;
+	text-shadow: 0 1px 0 #744109, 0 2px 0 #744109, 0 3px 0 #744109, 0 6px 1px rgba(0, 0, 0, 0.0980392), 0 0 5px rgba(0, 0, 0, 0.0980392), 0 1px 3px rgba(0, 0, 0, 0.298039), 0 3px 5px rgba(0, 0, 0, 0.2), 0 5px 10px rgba(0, 0, 0, 0.247059), 0 10px 10px rgba(0, 0, 0, 0.2), 0 20px 20px rgba(0, 0, 0, 0.14902);
+	position: relative;
+	z-index: 99;
+}
+
+.subtitulo {
+	color: white;
+	font-size: 20pt;
+	background: orange;
+	width: 15cm;
+	border-radius: 5px;
+	font-weight: bold;
+}
+
+.texto {
+	font-size: 18pt;
+	font-weight: bold;
+	background: url() top center no-repeat;
+	-webkit-text-fill-color: white;
+	-webkit-text-stroke: 1pt black;
+}
+
+
+
+.boton {
+	font-size: 30pt;
+	font-weight: bold;
+	color: white;
+	background: #ec5e0c;
+	border-radius: 7px;
+}
+
+.boton_L1 {
+	color: white;
+	font-size: 14pt;
+	font-weight: bold;
+	font-family: broadway;
+	background: #ec5e0c;
+	width: 200px;
+	height: 50px;
+	border-radius: 15px;
+}
+
+.boton_L1:hover {
+	color: #ec5e0c;
+	background: white;
+}
+
+.Background {
+	background-position: center;
+	background: no-repeat;
+	backface-visibility: visible;
+	background: top center no-repeat;
+}
+
+.title {
+	background: url(../images/h1-wood.png) top center no-repeat;
+	background-size: contain;
+	height: 75px;
+	margin: -30px auto 0px;
+	font-family: 'curse_casual_jveregular';
+	text-transform: uppercase;
+	color: #fff7e0;
+	font-size: 50px;
+	font-weight: 100;
+	text-align: center;
+	letter-spacing: 0.05em;
+	padding-top: 20px;
+	text-shadow: 0 1px 0 #744109, 0 2px 0 #744109, 0 3px 0 #744109, 0 6px 1px rgba(0, 0, 0, 0.0980392), 0 0 5px rgba(0, 0, 0, 0.0980392), 0 1px 3px rgba(0, 0, 0, 0.298039), 0 3px 5px rgba(0, 0, 0, 0.2), 0 5px 10px rgba(0, 0, 0, 0.247059), 0 10px 10px rgba(0, 0, 0, 0.2), 0 20px 20px rgba(0, 0, 0, 0.14902);
+	position: relative;
+	z-index: 99;
+}
+
+.texto_2 {
+	font-size: 14pt;
+	font-weight: bold;
+	font-style: oblique;
+	background: url() top center no-repeat;
+	color: white;
+
+}
+
+.campo {
+	font-size: 12pt;
+	font-weight: bold;
+	color: white;
+	background: #ec5e0c;
+	text-align: center;
+	border-radius: 7px;
+}
