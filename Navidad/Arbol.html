@@ -1,0 +1,119 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="WEB3D\IMG\1a-swt.png" rel="shortcut icon" type="imagenes/png">
+    <title>Árbol de Navidad 3D</title>
+
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+            font-family: Arial;
+            background: #0b1020;
+        }
+
+        /* PANEL UI */
+        #panel {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            padding: 20px;
+            width: 260px;
+            background: rgba(255, 255, 255, 0.12);
+            backdrop-filter: blur(12px);
+            border-radius: 16px;
+            border: 2px solid rgba(255, 255, 255, 0.25);
+            color: white;
+            box-shadow: 0 4px 25px rgba(0, 0, 0, 0.4);
+            z-index: 100;
+        }
+
+            #panel h3 {
+                margin: 0 0 15px 0;
+                text-align: center;
+                font-size: 18px;
+                letter-spacing: 1px;
+            }
+
+            #panel label {
+                font-size: 14px;
+                margin-top: 12px;
+                display: block;
+            }
+
+            #panel input[type="color"],
+            #panel input[type="range"] {
+                width: 100%;
+                margin-top: 5px;
+                margin-bottom: 10px;
+            }
+
+        .boton {
+            width: 100%;
+            padding: 10px;
+            margin-top: 10px;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: bold;
+            color: white;
+            background: linear-gradient(135deg, #2d6df6, #08d7ff);
+            transition: 0.2s ease-in-out;
+        }
+
+            .boton:hover {
+                transform: scale(1.05);
+                box-shadow: 0 0 12px rgba(0, 255, 255, 0.6);
+            }
+
+        #rotate {
+            background: linear-gradient(135deg, #1fd87c, #11a362);
+        }
+
+        #rotateGlobal {
+            background: linear-gradient(135deg, #ff4d4d, #d61b1b);
+        }
+
+        .light-value {
+            float: right;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- PANEL DE CONTROL -->
+    <div id="panel">
+        <h3>Árbol de Navidad 🎄</h3>
+
+        <label>Color del Árbol</label>
+        <input type="color" id="cuboColor" value="#0b8f2f">
+
+        <label>
+            Intensidad de Luz
+            <span id="lightValue" class="light-value">1.0</span>
+        </label>
+        <input type="range" id="pointLight" min="0" max="3" step="0.1" value="1">
+
+        <label>Rotación Estrella</label>
+        <button id="rotate" class="boton">Desactivar Rotación</button>
+
+        <label>Rotación Global</label>
+        <button id="rotateGlobal" class="boton">Activar Rotación Global</button>
+    </div>
+
+    <script src="js/three.min.js"></script>
+    <script src="CrismasModel.js"></script>
+
+    <script>
+        document.getElementById('pointLight').addEventListener('input', e => {
+            document.getElementById('lightValue').textContent = e.target.value;
+        });
+    </script>
+
+</body>
+</html>
