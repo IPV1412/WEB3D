@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Github\\WEB3D\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\WEB3D\\Index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\WEB3D\\Final\\ar-example.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final\\ar-example.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\WEB3D\\Navidad\\ChismasModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Navidad\\ChismasModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\WEB3D\\Navidad\\Arbol.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Navidad\\Arbol.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\WEB3D\\Final\\ar-final.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final\\ar-final.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\WEB3D\\Final\\message.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final\\message.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\WEB3D\\Cubos\\Cubos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Cubos\\Cubos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\WEB3D\\Index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\WEB3D\\404.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -30,31 +42,72 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ChismasModel.js",
-              "DocumentMoniker": "C:\\Github\\WEB3D\\Navidad\\ChismasModel.js",
-              "RelativeDocumentMoniker": "Navidad\\ChismasModel.js",
-              "ToolTip": "C:\\Github\\WEB3D\\Navidad\\ChismasModel.js",
-              "RelativeToolTip": "Navidad\\ChismasModel.js",
+              "DocumentIndex": 3,
+              "Title": "message.js",
+              "DocumentMoniker": "C:\\Github\\WEB3D\\Final\\message.js",
+              "RelativeDocumentMoniker": "Final\\message.js",
+              "ToolTip": "C:\\Github\\WEB3D\\Final\\message.js",
+              "RelativeToolTip": "Final\\message.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-01-16T18:35:45.496Z"
+              "WhenOpened": "2026-01-20T18:07:02.371Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ar-final.js",
+              "DocumentMoniker": "C:\\Github\\WEB3D\\Final\\ar-final.js",
+              "RelativeDocumentMoniker": "Final\\ar-final.js",
+              "ToolTip": "C:\\Github\\WEB3D\\Final\\ar-final.js",
+              "RelativeToolTip": "Final\\ar-final.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-20T18:00:32.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Arbol.html",
+              "DocumentMoniker": "C:\\Github\\WEB3D\\Navidad\\Arbol.html",
+              "RelativeDocumentMoniker": "Navidad\\Arbol.html",
+              "ToolTip": "C:\\Github\\WEB3D\\Navidad\\Arbol.html",
+              "RelativeToolTip": "Navidad\\Arbol.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-20T17:55:16.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ar-example.html",
+              "DocumentMoniker": "C:\\Github\\WEB3D\\Final\\ar-example.html",
+              "RelativeDocumentMoniker": "Final\\ar-example.html",
+              "ToolTip": "C:\\Github\\WEB3D\\Final\\ar-example.html",
+              "RelativeToolTip": "Final\\ar-example.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-20T17:54:46.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Cubos.html",
               "DocumentMoniker": "C:\\Github\\WEB3D\\Cubos\\Cubos.html",
               "RelativeDocumentMoniker": "Cubos\\Cubos.html",
               "ToolTip": "C:\\Github\\WEB3D\\Cubos\\Cubos.html",
               "RelativeToolTip": "Cubos\\Cubos.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAGwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-01-16T18:33:02.87Z"
+              "WhenOpened": "2026-01-16T18:33:02.87Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "404.html",
               "DocumentMoniker": "C:\\Github\\WEB3D\\404.html",
               "RelativeDocumentMoniker": "404.html",
@@ -66,13 +119,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Index.html",
               "DocumentMoniker": "C:\\Github\\WEB3D\\Index.html",
               "RelativeDocumentMoniker": "Index.html",
               "ToolTip": "C:\\Github\\WEB3D\\Index.html",
               "RelativeToolTip": "Index.html",
-              "ViewState": "AgIAABgBAAAAAAAAAAAAACoBAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAABAAAAAAAAAAAAACoBAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-12-12T21:59:33.347Z",
               "EditorCaption": ""
