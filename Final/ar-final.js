@@ -1,4 +1,4 @@
-// ar-final.js (ES module)
+
 import * as THREE from './js/three.module.js';
 
 let camera, scene, renderer;
